@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> ⚙️ This is a memory game using only CSS, JS and HTML, play it here [memory-game]()
+> ⚙️ This is a memory game using only CSS, JS and HTML.
 
 ## Author
 
