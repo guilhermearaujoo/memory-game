@@ -23,7 +23,7 @@ const saveLocal = (name) => {
 const handleSubmit = (event) => {
   event.preventDefault();
   if (verifyData(input.value)) saveLocal(input.value);
-  window.location = '/game.html';
+  window.location = './game.html';
 };
 
 input.addEventListener('keyup', validateInput);
