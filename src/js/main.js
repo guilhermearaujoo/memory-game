@@ -1,6 +1,3 @@
-import '../css/reset.css';
-import '../css/login.css';
-
 const input = document.querySelector('.login__input');
 const button = document.querySelector('.login__button');
 const form = document.querySelector('.login__form');

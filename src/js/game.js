@@ -1,7 +1,5 @@
 /* eslint-disable no-magic-numbers */
 /* eslint-disable sonarjs/no-duplicate-string */
-import '../css/reset.css';
-import '../css/game.css';
 import 'animate.css';
 import Swal from 'sweetalert2';
 
